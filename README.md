@@ -1,3 +1,2 @@
 # Whatsapp-Chat-Analyzer
-
-Phishing Simulation Platforms: I used platforms like KnowBe4 and PhishMe to design and execute realistic phishing email simulations. These simulations aimed to test the organization's preparedness in recognizing and responding to phishing attacks, thereby enhancing employee security awareness.
+This web app is able to analysis group & one by one personal whatsapp chat. You can see the Demo in this video, Click on thos link:- https://www.loom.com/share/cc818e078ff046ba9e3332eeee42ad6e
